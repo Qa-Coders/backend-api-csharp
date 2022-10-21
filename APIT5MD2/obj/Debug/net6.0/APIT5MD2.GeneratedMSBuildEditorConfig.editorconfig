@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = APIT5MD2
 build_property.RootNamespace = APIT5MD2
-build_property.ProjectDir = C:\PROJETOS\Desenvolvimento\APIT5MD2\APIT5MD2\
+build_property.ProjectDir = C:\PROJETOS\Desenvolvimento\Aulas de desenvovimento\backend-api-csharp-t5\APIT5MD2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\PROJETOS\Desenvolvimento\APIT5MD2\APIT5MD2
+build_property.MSBuildProjectDirectory = C:\PROJETOS\Desenvolvimento\Aulas de desenvovimento\backend-api-csharp-t5\APIT5MD2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/PROJETOS/Desenvolvimento/APIT5MD2/APIT5MD2/Pages/Error.cshtml]
+[C:/PROJETOS/Desenvolvimento/Aulas de desenvovimento/backend-api-csharp-t5/APIT5MD2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PROJETOS/Desenvolvimento/APIT5MD2/APIT5MD2/Pages/Index.cshtml]
+[C:/PROJETOS/Desenvolvimento/Aulas de desenvovimento/backend-api-csharp-t5/APIT5MD2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PROJETOS/Desenvolvimento/APIT5MD2/APIT5MD2/Pages/Privacy.cshtml]
+[C:/PROJETOS/Desenvolvimento/Aulas de desenvovimento/backend-api-csharp-t5/APIT5MD2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PROJETOS/Desenvolvimento/APIT5MD2/APIT5MD2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/PROJETOS/Desenvolvimento/Aulas de desenvovimento/backend-api-csharp-t5/APIT5MD2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PROJETOS/Desenvolvimento/APIT5MD2/APIT5MD2/Pages/_ViewImports.cshtml]
+[C:/PROJETOS/Desenvolvimento/Aulas de desenvovimento/backend-api-csharp-t5/APIT5MD2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PROJETOS/Desenvolvimento/APIT5MD2/APIT5MD2/Pages/_ViewStart.cshtml]
+[C:/PROJETOS/Desenvolvimento/Aulas de desenvovimento/backend-api-csharp-t5/APIT5MD2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PROJETOS/Desenvolvimento/APIT5MD2/APIT5MD2/Pages/Shared/_Layout.cshtml]
+[C:/PROJETOS/Desenvolvimento/Aulas de desenvovimento/backend-api-csharp-t5/APIT5MD2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qtg9jhl1jv

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJETOS\\Desenvolvimento\\APIT5MD2\\APIT5MD2\\APIT5MD2.csproj": {}
+    "C:\\PROJETOS\\Desenvolvimento\\Aulas de desenvovimento\\backend-api-csharp-t5\\APIT5MD2\\APIT5MD2.csproj": {}
   },
   "projects": {
-    "C:\\PROJETOS\\Desenvolvimento\\APIT5MD2\\APIT5MD2\\APIT5MD2.csproj": {
+    "C:\\PROJETOS\\Desenvolvimento\\Aulas de desenvovimento\\backend-api-csharp-t5\\APIT5MD2\\APIT5MD2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJETOS\\Desenvolvimento\\APIT5MD2\\APIT5MD2\\APIT5MD2.csproj",
+        "projectUniqueName": "C:\\PROJETOS\\Desenvolvimento\\Aulas de desenvovimento\\backend-api-csharp-t5\\APIT5MD2\\APIT5MD2.csproj",
         "projectName": "APIT5MD2",
-        "projectPath": "C:\\PROJETOS\\Desenvolvimento\\APIT5MD2\\APIT5MD2\\APIT5MD2.csproj",
+        "projectPath": "C:\\PROJETOS\\Desenvolvimento\\Aulas de desenvovimento\\backend-api-csharp-t5\\APIT5MD2\\APIT5MD2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJETOS\\Desenvolvimento\\APIT5MD2\\APIT5MD2\\obj\\",
+        "outputPath": "C:\\PROJETOS\\Desenvolvimento\\Aulas de desenvovimento\\backend-api-csharp-t5\\APIT5MD2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -79,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -91,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

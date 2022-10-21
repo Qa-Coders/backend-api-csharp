@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B8Qpeq7+O2ARn0u5LMjexW6t5pnpXhvOUKoO21BXs/MEV7z10ZrRQMjMxGKhmjL9uwjOIClvDzbo73j3Z9a84g==",
+  "dgSpecHash": "ojZCr+c9si7K2JBnGi4DcGqBzhAwXSVIYTCRj5Rv0NuqXat3so1e74ptTuf138XHMG1kE0C6QLvT6YSmCuc/Jg==",
   "success": true,
-  "projectFilePath": "C:\\PROJETOS\\Desenvolvimento\\APIT5MD2\\APIT5MD2\\APIT5MD2.csproj",
+  "projectFilePath": "C:\\PROJETOS\\Desenvolvimento\\Aulas de desenvovimento\\backend-api-csharp-t5\\APIT5MD2\\APIT5MD2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\languageext.core\\4.0.4\\languageext.core.4.0.4.nupkg.sha512",
